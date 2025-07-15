@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=200&section=header&text=Hi%20👋,%20I'm%20Alok%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
 
   <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast;B.Sc+Physics+Student;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 
   <!-- Social Badges with Hover Effects -->
   <div align="center">
@@ -28,27 +28,24 @@
   <div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); padding: 20px; border-radius: 10px; max-width: 800px; margin: 20px auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <h3 style="color: #4F46E5; margin-top: 0;">🚀 About Me</h3>
     <ul style="text-align: left; padding-left: 20px;">
-      <li>🎓 Pursuing <b>B.Sc in Physics</b> with a passion for technology</li>
       <li>💻 Certified <b>MERN Stack Developer</b></li>
-      <li>🧠 Currently exploring <b>AI/Machine Learning</b> concepts</li>
       <li>🌱 Building <b>real-world web solutions</b> for small businesses</li>
-      <li>🎯 Goal: <b>Bridge the gap between physics and computer science</b></li>
     </ul>
   </div>
 
   <!-- Tech Stack with Animated Icons -->
   <h2 style="color: #4F46E5;">🛠 Tech Stack</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,py,vscode&perline=7&theme=light" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode&perline=7&theme=light" alt="Tech Stack"/>
   </div>
 
   <!-- GitHub Stats with Glow Effect -->
   <h2 style="color: #4F46E5;">📊 GitHub Analytics</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&icon_color=fff&border_radius=10" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=30,4F46E5,EC4899&border_radius=10" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&border_radius=10" width="48%"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alok-webs&show_icons=true&count_private=true&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&icon_color=fff&border_radius=10" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-webs&theme=radical&background=30,4F46E5,EC4899&border_radius=10" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-webs&layout=compact&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&border_radius=10" width="48%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=alok-webs&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" width="48%"/>
   </div>
 
   <!-- Projects Showcase -->
