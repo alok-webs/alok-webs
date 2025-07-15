@@ -71,9 +71,7 @@
         <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
         <img src="https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge" alt="Stripe"/>
       </div>
-    </div>
-    
-    <!-- Project 2 -->
+    </div
     <div style="background: rgba(255,255,255,0.95); padding: 20px; border-radius: 12px; width: 320px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); border: 1px solid rgba(79,70,229,0.15); transition: transform 0.3s ease;">
       <h3 style="color: #4F46E5; margin-top: 0; font-size: 1.3em;">📊 Admin Dashboard</h3>
       <p style="color: #555; line-height: 1.5;">Comprehensive admin interface with user management, analytics, and data visualization.</p>
