@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Header with Better Contrast -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=180&section=header&text=Hi%20
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=180&section=header&text=Hi%20/>
      <div align="center" style="background: rgba(255,255,255,0.9); padding: 20px; border-radius: 12px; max-width: 800px; margin: 25px auto; box-shadow: 0 5px 15px rgba(79,70,229,0.1); border: 1px solid rgba(79,70,229,0.2);">
     <h2 style="color: #4F46E5; margin-top: 0; font-size: 1.5em;">🚀 About Me</h2>
     <div style="text-align: left; padding: 0 20px;">
