@@ -1,67 +1,87 @@
-<h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">🚀 MERN Stack Developer | B.Sc. Physics Student | Future AI Engineer</h3>
+<div align="center">
+  <!-- Animated Header with Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=200&section=header&text=Hi%20👋,%20I'm%20Alok%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;AI+Enthusiast;React+%7C+Node.js+%7C+MongoDB;Always+Learning+%F0%9F%93%9A" />
-</p>
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI+Enthusiast;B.Sc+Physics+Student;Building+the+Future+with+Code" alt="Typing SVG" />
 
----
+  <!-- Social Badges with Hover Effects -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/alok-kumar-874048336">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:akbijarniya24@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.wscubetech.com/portfolio/web-development/alok-kumar">
+      <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    </a>
+  </div>
 
-### 👨‍💻 About Me:
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=4F46E5&style=flat" alt="Profile views"/>
 
-- 🎓 I'm currently pursuing **B.Sc. in Physics**
-- 💻 I recently completed a **Full Stack Web Development (MERN)** course
-- 🧠 Learning about **AI / Machine Learning**
-- 🌱 Currently working on **real-world web projects**
-- 🎯 My goal: **To help small businesses grow with smart web solutions**
+  <!-- About Me Card -->
+  <div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); padding: 20px; border-radius: 10px; max-width: 800px; margin: 20px auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="color: #4F46E5; margin-top: 0;">🚀 About Me</h3>
+    <ul style="text-align: left; padding-left: 20px;">
+      <li>🎓 Pursuing <b>B.Sc in Physics</b> with a passion for technology</li>
+      <li>💻 Certified <b>MERN Stack Developer</b></li>
+      <li>🧠 Currently exploring <b>AI/Machine Learning</b> concepts</li>
+      <li>🌱 Building <b>real-world web solutions</b> for small businesses</li>
+      <li>🎯 Goal: <b>Bridge the gap between physics and computer science</b></li>
+    </ul>
+  </div>
 
----
+  <!-- Tech Stack with Animated Icons -->
+  <h2 style="color: #4F46E5;">🛠 Tech Stack</h2>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,py,vscode&perline=7&theme=light" alt="Tech Stack"/>
+  </div>
 
-### 🛠️ Tech Stack:
+  <!-- GitHub Stats with Glow Effect -->
+  <h2 style="color: #4F46E5;">📊 GitHub Analytics</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&icon_color=fff&border_radius=10" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=30,4F46E5,EC4899&border_radius=10" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=30,4F46E5,EC4899&title_color=fff&text_color=fff&border_radius=10" width="48%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" width="48%"/>
+  </div>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+  <!-- Projects Showcase -->
+  <h2 style="color: #4F46E5;">🌟 Featured Projects</h2>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <!-- Project 1 -->
+    <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); padding: 15px; border-radius: 10px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #4F46E5; margin-top: 0;">🛒 E-Commerce Website</h3>
+      <p>Complete shopping platform with cart, checkout, and payment integration</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/>
+      </div>
+    </div>
+    <!-- Project 2 -->
+    <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); padding: 15px; border-radius: 10px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <h3 style="color: #4F46E5; margin-top: 0;">📊 Admin Dashboard</h3>
+      <p>Interactive admin panel with data visualization and management tools</p>
+      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat" alt="Chart.js"/>
+      </div>
+    </div>
+  </div>
 
----
+  <!-- Activity Graph -->
+  <h2 style="color: #4F46E5;">🔥 My Coding Activity</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=ffffff&color=4F46E5&line=EC4899&point=4F46E5&area=true&hide_border=true" alt="Activity Graph"/>
 
-### 📂 My Projects:
-
-| Project Name | Tech Stack | Description |
-|--------------|------------|-------------|
-| 🌐 E-Commerce Website | React, Node.js, MongoDB | Complete shopping website with cart, checkout, payment |
-| 📁 Admin Dashboard | React, Tailwind, Chart.js | Admin panel to manage categories, users & orders |
-| 🧠 AI Chatbot (Coming Soon) | Node.js, OpenAI API | Smart chatbot using AI/ML concepts |
-
-*👉 More Projects coming soon...*
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-### 📫 Contact Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/alok-kumar-874048336)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat)](mailto:akbijarniya24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange?style=flat)]([https://your-portfolio-link.com](https://www.wscubetech.com/portfolio/web-development/alok-kumar?u=kiYzea9iJMe/9hG9xCHxbw==))
-
----
-
-<p align="center">
-  Made with ❤️ by <b>Alok Kumar</b>
-</p>
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=100&section=footer&fontColor=ffffff" alt="Footer"/>
+  
+  <p style="color: #4F46E5;">Made with ❤️ by <b>Alok Kumar</b></p>
+</div>
